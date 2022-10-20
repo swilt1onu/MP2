@@ -10,13 +10,13 @@
 *
 *If neither die shows a 1, the sum of the dice is added to the current turn total. The player can now elect to roll
 * gain or to stop. If the player chooses to stop, then the sum of all of the rolls for the current turn (i.e., the
-* current turn total) is added to the player’s game total. If the player rolls again, the both the current turn and
+* current turn total) is added to the playerâ€™s game total. If the player rolls again, the both the current turn and
 * game totals are at risk of being lost.
 *
-*If a single 1 is rolled, the player’s score for the current turn is lost (i.e., the current turn total is set to zero)
+*If a single 1 is rolled, the playerâ€™s score for the current turn is lost (i.e., the current turn total is set to zero)
 * and the turn ends.
 * 
-*If two 1’s are rolled, the player’s total score for the entire game is lost (i.e., the game total is set back to zero)
+*If two 1â€™s are rolled, the playerâ€™s total score for the entire game is lost (i.e., the game total is set back to zero)
 * and the turn ends
 * 
 * If a player reaches 100 or more points after stopping then that player wins.
